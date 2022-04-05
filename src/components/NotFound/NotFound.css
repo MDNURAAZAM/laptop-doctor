@@ -1,0 +1,12 @@
+.error{
+    height: 300px;
+    width: 100%;
+    
+    color: rgb(207, 37, 37);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.error h1{
+    font-size: 100px;
+}

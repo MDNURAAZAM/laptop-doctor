@@ -1,0 +1,10 @@
+.blogs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px;
+    text-align: center;
+}
+.blogs div{
+    padding: 40px;
+}
