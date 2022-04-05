@@ -1,0 +1,27 @@
+.product-details{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.product-details img{
+    width: 100%;
+}
+.review-container{
+    text-align: center;
+}
+
+.review-container .reviews{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 50px;
+    gap: 40px;
+}
+
+.review-container .go-to-review{
+    background-color: rgb(21, 65, 114);
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+}

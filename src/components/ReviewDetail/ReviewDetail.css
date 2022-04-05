@@ -1,0 +1,12 @@
+.review-detail{
+    background-color: rgb(21, 65, 114);
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.review-detail p{
+    font-size: 20px;
+    margin-top: 20px;
+}

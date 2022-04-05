@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "abul",
+        "comments": "very nice service",
+        "ratings": 4
+    },
+    {
+        "id": 2,
+        "name": "babul",
+        "comments": "authentic service provider",
+        "ratings": 4
+    },
+    {
+        "id": 3,
+        "name": "kabul",
+        "comments": "Good customer service",
+        "ratings": 4
+    },
+    {
+        "id": 4,
+        "name": "mokbul",
+        "comments": "Reasonable price",
+        "ratings": 4
+    },
+    {
+        "id": 5,
+        "name": "bulbul",
+        "comments": "Good time management",
+        "ratings": 4
+    },
+    {
+        "id": 6,
+        "name": "chulbul",
+        "comments": "Very nice nice service",
+        "ratings": 4
+    }
+]
